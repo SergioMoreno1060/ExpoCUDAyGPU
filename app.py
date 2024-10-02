@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_components_react import ReactComponent
+import streamlit.components.v1 as components
 
 st.title("CUDA y GPU: Presentación")
 
