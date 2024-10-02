@@ -1,2 +1,2 @@
 streamlit
-streamlit-components-react
+streamlit-component-lib
